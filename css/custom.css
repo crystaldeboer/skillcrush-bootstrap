@@ -1,0 +1,15 @@
+body, html{
+	background-color:#ececec;
+}
+
+h1, .jumbotron h1 {
+    
+    color: rebeccapurple;
+}
+
+.col-md-3, .col-md-5 {
+    margin: 1%;
+    background-color: #ccc;
+    text-align: justify;
+}
+
